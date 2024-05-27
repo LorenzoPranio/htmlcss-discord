@@ -85,10 +85,29 @@ h1{
     margin-bottom: 30px;
 }
 
+h2{
+    margin-left: 0px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    font-size: 42px;
+}
+
+br{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+h5{
+    margin-left: 0px;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
 p{
     margin-top: 10px;
     margin-bottom: 12px;
 }
+
 
 .col-p{
     color: white;
@@ -98,18 +117,12 @@ p{
 }
 
 .col-35{
-    background-color: pink;
     width: 35%;
-    height: 350px;
-    border: 1px dashed black;
     margin: 30px 0px;
 }
 
 .col-65{
-    background-color: rgb(0, 108, 231);
     width: 65%;
-    height: 350px;
-    border: 1px dashed black;
     margin: 30px 0px;
 }
 
