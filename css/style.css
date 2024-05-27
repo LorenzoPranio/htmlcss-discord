@@ -45,12 +45,12 @@ header{
     padding: 5px;
 }
 
-ul{
+.ul{
     list-style: none;
     text-align: center;
 }
 
-li{
+.li{
     display: inline;
 }
 
@@ -198,22 +198,29 @@ footer{
     background-color: rgb(22, 22, 22);
 }
 
+.ita{
+    width: 25px;
+    height: 15px;
+}
+
+.halt{
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+
 .col-16{
     width: calc(100% / 6);
-    height: 450px;
     border: 1px dashed white;
     margin-top: 2px;
     margin-bottom: 10px;
-    background-color: rgb(15, 139, 139);
 }
 
 .col-33{
     width: calc(100% / 3);
-    height: 450px;
     border: 1px dashed black;
     margin-top: 2px;
     margin-bottom: 10px;
-    background-color: rgb(197, 101, 133);
+    color: white;
 }
 
 .rowsm{
@@ -238,6 +245,15 @@ footer{
     display: inline-block;
 }
 
+li{
+    color: white;
+    margin-top: 15px;
+}
+
+ul{
+    list-style: none;
+}
+
 /*ID*/
 
 #t-cent{
@@ -254,4 +270,8 @@ footer{
 
 #wl{
     color: white;
+}
+
+#tb{
+    color: #628bf7;
 }
