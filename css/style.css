@@ -278,3 +278,18 @@ ul{
 #tb{
     color: #628bf7;
 }
+
+/*BONUS*/
+
+.wave{
+    background-image: url(../img/wave.svg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    opacity: 0.18;
+}
+
+.rot{
+    transform: rotate(180deg);
+}
