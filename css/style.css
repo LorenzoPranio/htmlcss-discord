@@ -33,6 +33,13 @@ header{
     display: flex;
 }
 
+.col-smend{
+    width: 20%;
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end;
+}
+
 .col-lg{
     width: 60%;
     padding: 5px;
