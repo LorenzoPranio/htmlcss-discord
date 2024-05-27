@@ -29,17 +29,45 @@ header{
 
 .col-sm{
     width: 20%;
-    background-color: rgb(255, 187, 1);
-    border: 1px dashed black;
     padding: 5px;
 }
 
 .col-lg{
     width: 60%;
-    background-color: rgb(255, 187, 1);
-    border: 1px dashed black;
     padding: 5px;
 }
+
+ul{
+    list-style: none;
+    text-align: center;
+}
+
+li{
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 20px;
+}
+
+.mt-s{
+    margin-top: 5px;
+}
+
+.btn-white{
+    padding: 5px 20px;
+    color: black;
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: white;
+}
+
+.just-end{
+    justify-content: flex-end;
+}
+
 
 /*RULES MAIN*/
 
