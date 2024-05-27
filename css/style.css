@@ -189,6 +189,9 @@ h3{
     border-radius: 20px;
     text-decoration: none;
     background-color: #628bf7;
+}
+
+.mt-l40{
     margin-left: 40%;
 }
 
@@ -224,19 +227,13 @@ footer{
 .rowsm{
     display: flex;
     flex-wrap: wrap;
-    margin-top: 20px;
     padding: 15px 0px;
     justify-content: space-between;
-    border: 1px solid black;
-    background-color: aqua;
 }
 
 .col-f{
     width: auto;
     height: auto;
-    border: 1px dashed black;
-    padding: 5px;
-    background-color: rgb(247, 144, 178);
 }
 
 .lgt{
@@ -258,6 +255,7 @@ ul{
     margin-right: 5px;
     margin-top: 20px;
 }
+
 
 /*ID*/
 
