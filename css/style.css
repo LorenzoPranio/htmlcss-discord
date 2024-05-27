@@ -137,12 +137,10 @@ p{
 
 .col-g{
     width: 100%;
-    border: 1px dashed black;
+    display: flex;
+    justify-content: center;
 }
 
-.al-item{
-    align-items: center;
-}
 
 .btn-black{
     padding: 10px 20px;
